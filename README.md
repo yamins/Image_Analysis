@@ -1,5 +1,5 @@
 # EE451-Image Analysis and Pattern Recognition - Labs
-Team Member: Yamin Sepehri (@ysepehri), Asli Yorusun (@aslitoj)
+Team Member: Yamin Sepehri (@yamins), Asli Yorusun (@aslitoj)
 
 - Lab 1: Segmentation
 - Lab 2: Description
